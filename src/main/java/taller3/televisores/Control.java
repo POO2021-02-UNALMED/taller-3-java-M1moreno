@@ -4,13 +4,12 @@ public class Control {
 	
 	private TV tv;
 	
-	public void setTV (TV tv) {
+	public void setTv (TV tv) {
 		this.tv = tv;
 	}
 	
-	public TV getTV() {
+	public TV getTv() {
 		this.enlazar(tv);
-		return tv;
 	}
 	
 	public void enlazar (TV tv) {
