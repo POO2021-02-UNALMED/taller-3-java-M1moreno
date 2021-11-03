@@ -4,7 +4,7 @@ public class Control {
 	
 	private TV tv;
 	
-	public void setTv (TV tv) {
+	public void setTV (TV tv) {
 		this.tv = tv;
 	}
 	
