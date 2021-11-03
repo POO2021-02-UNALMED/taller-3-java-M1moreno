@@ -56,6 +56,10 @@ public class TV {
 		return canal;
 	}
 	
+	public void setNumTV(int numero){
+		cls.numTV = numero;
+	}
+	
 	public int getNumTV() {
 		return numTV;
 	}
