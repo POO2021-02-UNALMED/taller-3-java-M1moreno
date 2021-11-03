@@ -10,6 +10,7 @@ public class Control {
 	
 	public TV getTv() {
 		this.enlazar(tv);
+		return tv;
 	}
 	
 	public void enlazar (TV tv) {
